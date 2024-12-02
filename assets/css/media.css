@@ -1,0 +1,59 @@
+@media (max-width: 992px) { 
+  #nav{
+    padding: 30px 0;
+  }
+  /* BANNER */
+  #banner{
+    padding-top: 20px;
+  }
+  #banner .lets{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  #banner .lets a:first-child{
+    margin-right: 0px;
+    margin-bottom: 10px;
+  }
+  #banner .rahman h4{
+    padding-top: 10px;
+  }
+  #banner .rahman h2{
+    font-size: 50px;
+    width: 100%;
+    color: #fc0;
+  }
+  #banner .rahman p{
+   width: 100%;
+   padding-bottom: 10px;
+  }
+  #banner .follow{
+    padding-top: 20px;
+  }
+  #banner .img-fluid{
+    padding-top: 20px;
+  }
+  /* BANNER END */
+  /* ABOUT */
+  #about .img-fluid{
+    padding-top: 10px;
+  }
+  #about .me h2{
+    padding: 20px 0 10px;
+  }
+  #about .me p{
+    width: 100%;
+    padding-bottom: 30px;
+    margin: 0;
+  }
+  #about .circle{
+    right: 0;
+  }
+  #about .me a{
+    padding: 17px 30px 17px 35px;
+    margin-bottom: 20px;
+    display: flex;
+  }
+  /* ABOUT END */
+}
